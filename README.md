@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on Java server side technologies.
 - 🌱 I’m currently learning natural language processing.
 - 💬 Ask me about Java8, Spring boot 2, Jaeger, Spring cloud config.
-- 💌 How to reach me: [krushnatkhawale@gmail.com](mailto:krushnatkhawale@gmail.com)
 
 
 [![Krushnat's github stats](https://github-readme-stats.vercel.app/api?username=krushnatkhawale&show_icons=true)](https://github.com/krushnatkhawale/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krushnatkhawale&layout=compact)](https://github.com/krushnatkhawale/github-readme-stats)
