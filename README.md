@@ -16,4 +16,4 @@
 [![Krushnat's github stats](https://github-readme-stats.vercel.app/api?username=krushnatkhawale&show_icons=true)](https://github.com/krushnatkhawale/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krushnatkhawale&layout=compact)](https://github.com/krushnatkhawale/github-readme-stats)
 
 
-![ThanksYou](https://img.shields.io/badge/ThankYouForStoppingBy_AllTheVeryBest-dodgerblue.svg?style=for-the-badge)
+![ThanksYou](https://img.shields.io/badge/Thank_You_For_Stopping_By,_All_The_Very_Best-dodgerblue.svg?style=for-the-badge)
