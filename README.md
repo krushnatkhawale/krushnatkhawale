@@ -8,6 +8,12 @@
 - 🔭 **I’m currently working on server side Java technologies.**
 - 🌱 **I’m currently learning natural language processing.**
 
+
+📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
+
 **Languages and Tools:**  
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
 <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
