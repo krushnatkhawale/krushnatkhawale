@@ -9,7 +9,9 @@
 - 🌱 **I’m currently learning natural language processing.**
 
 
-📊 &nbsp;**This week I spent my time on**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=krushnatkhawale&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
