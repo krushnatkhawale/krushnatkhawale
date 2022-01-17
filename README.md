@@ -10,6 +10,11 @@
 
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   14 mins         ████████████▒░░░░░░░░░░░░   49.92 % 
+JSON         7 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.15 % 
+Markdown     6 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.07 % 
+```
 <!--END_SECTION:waka-->
 
 
