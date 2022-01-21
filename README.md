@@ -38,6 +38,6 @@ JSON         15 mins         █████████████████
 [![trophy](https://github-profile-trophy.vercel.app/?username=krushnatkhawale&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![wakatime to this page](https://wakatime.com/badge/user/c0c95904-b67a-4a62-bb09-8d5a5255068b/project/1c714a5d-d783-4d40-9897-409debbac3ab.svg)](https://wakatime.com/badge/user/c0c95904-b67a-4a62-bb09-8d5a5255068b/project/1c714a5d-d783-4d40-9897-409debbac3ab)
+[![wakatime for this page](https://wakatime.com/badge/user/c0c95904-b67a-4a62-bb09-8d5a5255068b/project/1c714a5d-d783-4d40-9897-409debbac3ab.svg)](https://wakatime.com/badge/user/c0c95904-b67a-4a62-bb09-8d5a5255068b/project/1c714a5d-d783-4d40-9897-409debbac3ab)
 
 ![ThanksYou](https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
