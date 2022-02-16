@@ -11,6 +11,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Total: 11 mins
+
 HTML   9 mins          ███████████████████▓░░░░░   78.82 % 
 YAML   2 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.18 % 
 ```
