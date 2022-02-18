@@ -11,10 +11,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 11 mins
+Total: 1 hr 35 mins
 
-HTML   9 mins          ███████████████████▓░░░░░   78.82 % 
-YAML   2 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.18 % 
+Java         1 hr 1 min      ████████████████░░░░░░░░░   64.14 % 
+HTML         9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Gradle       7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Properties   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Groovy       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 ```
 <!--END_SECTION:waka-->
 
