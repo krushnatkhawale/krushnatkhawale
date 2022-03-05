@@ -14,9 +14,7 @@ Detailed time spent recently,
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   35 mins         ███████████████▓░░░░░░░░░   62.45 %
-YAML       16 mins         ███████▒░░░░░░░░░░░░░░░░░   29.24 %
-Java       4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
+Markdown   34 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
