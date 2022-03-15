@@ -14,11 +14,8 @@ Detailed time spent recently,
 <!--START_SECTION:waka-->
 
 ```text
-Java       1 hr 10 mins    █████████████████████▓░░░   86.30 %
-HTML       6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
-YAML       4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Groovy     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Java   8 mins          █████████████▓░░░░░░░░░░░   54.82 %
+HTML   6 mins          ███████████▒░░░░░░░░░░░░░   45.18 %
 ```
 
 <!--END_SECTION:waka-->
