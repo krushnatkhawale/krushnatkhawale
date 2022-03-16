@@ -14,8 +14,8 @@ Detailed time spent recently,
 <!--START_SECTION:waka-->
 
 ```text
-Java   8 mins          █████████████▓░░░░░░░░░░░   54.82 %
-HTML   6 mins          ███████████▒░░░░░░░░░░░░░   45.18 %
+Java     55 mins         ████████████████████████▓   98.92 %
+Gradle   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->
