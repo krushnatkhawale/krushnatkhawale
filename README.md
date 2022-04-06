@@ -14,7 +14,7 @@ Detailed time spent recently,
 <!--START_SECTION:waka-->
 
 ```text
-Java   7 mins          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
