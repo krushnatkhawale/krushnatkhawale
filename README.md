@@ -14,7 +14,12 @@ Detailed time spent recently,
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Text             2 mins          █████████▒░░░░░░░░░░░░░░░   37.13 %
+Gradle           2 mins          ███████▒░░░░░░░░░░░░░░░░░   29.07 %
+AUTO_DETECTED    2 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.20 %
+Groovy           0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Java             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
