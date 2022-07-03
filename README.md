@@ -14,12 +14,12 @@ Detailed time spent recently,
 <!--START_SECTION:waka-->
 
 ```text
-Text             2 mins          █████████▒░░░░░░░░░░░░░░░   37.13 %
-Gradle           2 mins          ███████▒░░░░░░░░░░░░░░░░░   29.07 %
-AUTO_DETECTED    2 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.20 %
-Groovy           0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-Java             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java             8 mins          █████████████▓░░░░░░░░░░░   54.27 %
+Text             2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.39 %
+Gradle           2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
+AUTO_DETECTED    2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
+Groovy           0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
