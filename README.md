@@ -14,10 +14,9 @@ Detailed time spent recently,
 <!--START_SECTION:waka-->
 
 ```text
-Java     38 mins         ████████████████████████▒   97.86 %
-Gradle   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-Groovy   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Java     29 mins         ████████████████████████▒   97.58 %
+Gradle   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Groovy   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
