@@ -14,8 +14,7 @@ Detailed time spent recently,
 <!--START_SECTION:waka-->
 
 ```text
-Java     8 mins          ███████████████████████▓░   94.24 %
-Groovy   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
