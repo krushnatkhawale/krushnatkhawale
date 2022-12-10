@@ -8,12 +8,7 @@
 - 🔭 **I’m currently working on server side Java technologies.**
 - 🌱 **I’m currently learning natural language processing.**
 
-![](https://komarev.com/ghpvc/?username=krushnatkhawale) 
-
-[![wakatime for this page](https://wakatime.com/badge/user/c0c95904-b67a-4a62-bb09-8d5a5255068b/project/1c714a5d-d783-4d40-9897-409debbac3ab.svg)](https://wakatime.com/badge/user/c0c95904-b67a-4a62-bb09-8d5a5255068b/project/1c714a5d-d783-4d40-9897-409debbac3ab)
-[![wakatime](https://wakatime.com/badge/user/c0c95904-b67a-4a62-bb09-8d5a5255068b.svg)](https://wakatime.com/@c0c95904-b67a-4a62-bb09-8d5a5255068b)
-[![wakatime](https://wakatime.com/badge/user/c0c95904-b67a-4a62-bb09-8d5a5255068b.svg)](https://wakatime.com/@c0c95904-b67a-4a62-bb09-8d5a5255068b)
-[![wakatime](https://wakatime.com/badge/user/c0c95904-b67a-4a62-bb09-8d5a5255068b.svg)](https://wakatime.com/@c0c95904-b67a-4a62-bb09-8d5a5255068b)
+![](https://komarev.com/ghpvc/?username=krushnatkhawale) [![wakatime this year](https://wakatime.com/badge/user/c0c95904-b67a-4a62-bb09-8d5a5255068b.svg)](https://wakatime.com/@c0c95904-b67a-4a62-bb09-8d5a5255068b)
 Detailed time spent recently,
 <!--START_SECTION:waka-->
 
