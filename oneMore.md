@@ -11,4 +11,4 @@ embedme "another.md"
 ``` 
 <iframe src="another.md" title="description"></iframe>
 
-<!--include:another.md-->
+<!--include:../another.md-->
