@@ -1,8 +1,11 @@
 # One more MD
 
-@@include[my-file.md](another.md)
+@@include [another.md](another.md)
 
-````@eval
+```@eval
 using Markdown
-Markdown.parse_file(joinpath(  "another.md"))
-````
+Markdown.parse_file(   "another.md")
+```
+```ts
+embedme "another.md"
+```
