@@ -33,15 +33,15 @@ Detailed time spent recently,
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 January 2022 - To: 08 May 2023
+From: 04 January 2022 - To: 09 May 2023
 
-Total Time: 45 hrs 27 mins
+Total Time: 46 hrs 41 mins
 
-Java             19 hrs 15 mins  >>>>>>>>>>>--------------   42.36 %
-HTML             8 hrs 49 mins   >>>>>--------------------   19.42 %
-JavaScript       6 hrs 8 mins    >>>----------------------   13.51 %
-YAML             2 hrs 54 mins   >>-----------------------   06.38 %
-Groovy           2 hrs 52 mins   >>-----------------------   06.31 %
+Java             20 hrs 5 mins   >>>>>>>>>>>--------------   43.04 %
+HTML             8 hrs 49 mins   >>>>>--------------------   18.91 %
+JavaScript       6 hrs 8 mins    >>>----------------------   13.15 %
+YAML             3 hrs 12 mins   >>-----------------------   06.86 %
+Groovy           2 hrs 54 mins   >>-----------------------   06.23 %
 ```
 
 <!--END_SECTION:waka-->
