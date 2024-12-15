@@ -33,15 +33,15 @@ Detailed time spent recently,
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2022 - To: 13 December 2024
+From: 04 January 2022 - To: 14 December 2024
 
-Total Time: 97 hrs 10 mins
+Total Time: 98 hrs 16 mins
 
-Java              45 hrs 36 mins  >>>>>>>>>>>>-------------   46.94 %
-HTML              10 hrs 33 mins  >>>----------------------   10.86 %
-Groovy            10 hrs 27 mins  >>>----------------------   10.76 %
-Markdown          7 hrs 54 mins   >>-----------------------   08.14 %
-JavaScript        6 hrs 8 mins    >>-----------------------   06.32 %
+Java              45 hrs 53 mins  >>>>>>>>>>>>-------------   46.70 %
+Groovy            10 hrs 46 mins  >>>----------------------   10.97 %
+HTML              10 hrs 33 mins  >>>----------------------   10.74 %
+Markdown          7 hrs 54 mins   >>-----------------------   08.05 %
+JavaScript        6 hrs 8 mins    >>-----------------------   06.25 %
 ```
 
 <!--END_SECTION:waka-->
