@@ -33,7 +33,7 @@ Detailed time spent recently,
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2022 - To: 09 June 2025
+From: 04 January 2022 - To: 10 June 2025
 
 Total Time: 127 hrs 51 mins
 
