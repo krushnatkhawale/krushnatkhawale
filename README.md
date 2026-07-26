@@ -8,7 +8,7 @@
 
 🌱 Exploring Generative AI with Spring AI and natural language processing.
 
-## 📫 Connect With Me
+### 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krushnat-khavale/"><img src="https://img.shields.io/badge/-krushnatkhawale-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
@@ -18,7 +18,7 @@
   <a href="https://github.com/krushnatkhawale"><img src="https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/></a>
 </p>
 
-## 🛠️ Languages & Tools
+### 🛠️ Languages & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -26,7 +26,7 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/krushnatkhawale/github-readme-stats">
@@ -34,7 +34,7 @@
   </a>
 </p>
 
-## ⏱️ Activity
+### ⏱️ Activity
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=krushnatkhawale"><img src="https://komarev.com/ghpvc/?username=krushnatkhawale" alt="Profile Views"/></a>
