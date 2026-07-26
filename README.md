@@ -1,13 +1,11 @@
 <h1 align="center">Hi there 👋, I am Krushnat Khavale</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=47A248&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Java+Developer;Spring+Boot+Enthusiast;Learning+NLP;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=47A248&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Java+Backend+Developer;Spring+Boot+AI+Enthusiast;" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  🔭 I'm currently working on server side Java technologies.<br/>
-  🌱 I'm currently learning natural language processing.
-</p>
+- 🔭 Building microservices with Spring Boot, messaging with Kafka & RabbitMQ, and ETL pipelines with Spring Batch.
+- 🌱 Exploring Generative AI with Spring AI and natural language processing.
 
 ## 📫 Connect With Me
 
