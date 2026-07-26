@@ -4,8 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=47A248&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Java+Backend+Developer;Spring+Boot+AI+Enthusiast;" alt="Typing SVG" />
 </p>
 
-- 🔭 Building microservices with Spring Boot, messaging with Kafka & RabbitMQ, and ETL pipelines with Spring Batch.
-- 🌱 Exploring Generative AI with Spring AI and natural language processing.
+🔭 Building microservices with Spring Boot, messaging with Kafka & RabbitMQ, and ETL pipelines with Spring Batch.
+
+🌱 Exploring Generative AI with Spring AI and natural language processing.
 
 ## 📫 Connect With Me
 
