@@ -1,44 +1,47 @@
-# Hi there 👋, I am Krushnat Khavale
+<h1 align="center">Hi there 👋, I am Krushnat Khavale</h1>
 
-🔭 I'm currently working on server side Java technologies.
-🌱 I'm currently learning natural language processing.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=47A248&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Java+Developer;Spring+Boot+Enthusiast;Learning+NLP;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  🔭 I'm currently working on server side Java technologies.<br/>
+  🌱 I'm currently learning natural language processing.
+</p>
 
 ## 📫 Connect With Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-krushnatkhawale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krushnat-khavale/)](https://www.linkedin.com/in/krushnat-khavale/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/1446358/wosimosi)](https://stackoverflow.com/users/1446358/wosimosi)
-[![Gmail Badge](https://img.shields.io/badge/-krushnatkhawale@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krushnatkhawale@gmail.com)](mailto:krushnatkhawale@gmail.com)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/krushnatkhawale)
-[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/krushnatkhawale)
+<p align="center">
+  <a href="https://www.linkedin.com/in/krushnat-khavale/"><img src="https://img.shields.io/badge/-krushnatkhawale-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/1446358/wosimosi"><img src="https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white"/></a>
+  <a href="mailto:krushnatkhawale@gmail.com"><img src="https://img.shields.io/badge/-krushnatkhawale@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://github.com/krushnatkhawale"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+  <a href="https://github.com/krushnatkhawale"><img src="https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/></a>
+</p>
 
 ## 🛠️ Languages & Tools
 
-<a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-<a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>
-<a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
-<a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-<a href="https://gradle.org" target="_blank"><img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/></a>
-<a href="https://www.mongodb.com" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
-<a href="https://www.raspberrypi.org" target="_blank"><img src="https://img.shields.io/badge/Raspberry_Pi-A5163F?style=for-the-badge&logo=raspberrypi&logoColor=white"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,spring,aws,git,gradle,mongodb,raspberrypi,nodejs&theme=dark" />
+  </a>
+</p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/krushnatkhawale/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=krushnatkhawale&show_icons=true&theme=radical" alt="Krushnat's GitHub Stats"/>
+    <img src="https://github-stats-extended.vercel.app/api?username=krushnatkhawale&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub Stats"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushnatkhawale&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
-
-<sub>Top languages metric reflects code volume on GitHub, not skill level. Powered by <a href="https://github.com/krushnatkhawale/github-readme-stats">github-readme-stats</a>.</sub>
 
 ## ⏱️ Activity
 
-<a href="https://komarev.com/ghpvc/?username=krushnatkhawale"><img src="https://komarev.com/ghpvc/?username=krushnatkhawale" alt="Profile Views"/></a>
-[![wakatime this year](https://wakatime.com/badge/user/c0c95904-b67a-4a62-bb09-8d5a5255068b.svg)](https://wakatime.com/@c0c95904-b67a-4a62-bb09-8d5a5255068b)
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=krushnatkhawale"><img src="https://komarev.com/ghpvc/?username=krushnatkhawale" alt="Profile Views"/></a>
+  &nbsp;&nbsp;
+  <a href="https://wakatime.com/@c0c95904-b67a-4a62-bb09-8d5a5255068b"><img src="https://wakatime.com/badge/user/c0c95904-b67a-4a62-bb09-8d5a5255068b.svg" alt="Wakatime"/></a>
+</p>
 
 Detailed time spent recently:
 
