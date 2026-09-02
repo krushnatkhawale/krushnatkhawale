@@ -47,7 +47,7 @@ Detailed time spent recently:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2022 - To: 31 August 2026
+From: 04 January 2022 - To: 01 September 2026
 
 Total Time: 305 hrs 49 mins
 
